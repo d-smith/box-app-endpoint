@@ -1,0 +1,19 @@
+[
+  {
+    "environment": [],
+    "name": "boxen",
+    "image": "dasmith/node-app",
+    "essential": true,
+    "cpu":10,
+    "memory":10,
+    "portMappings": [
+      {
+        "containerPort":8666,
+        "hostPort":80
+      }
+    ],
+    "entryPoint":[
+      "nodejs", "server.js"
+    ]
+  }
+]
