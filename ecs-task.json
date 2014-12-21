@@ -5,7 +5,7 @@
     "image": "dasmith/node-app",
     "essential": true,
     "cpu":10,
-    "memory":10,
+    "memory":512,
     "portMappings": [
       {
         "containerPort":8666,
