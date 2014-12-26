@@ -24,7 +24,7 @@ Verify the endpoint:
 
 Integrating with box is super simple. Basically follow the instructions documented on
 this page: https://developers.box.com/box-web-application-integrations/ -- look
-as the 4 screen capture files (tiff) in this directory for specifics of the 
+as the 4 screen capture files (PNG) in this directory for specifics of the 
 configuration.
 
 This application just logs the call, so to see the log output connect to the cluster member
