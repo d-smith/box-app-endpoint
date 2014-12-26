@@ -31,17 +31,17 @@ This application just logs the call, so to see the log output connect to the clu
 running the task and use docker logs, e.g.
 
 	[ec2-user@ip-10-0-0-39 ~]$ docker logs 8f9b1a4da9b3
-Listening on 8666
-{}
-{}
-{}
-{}
-{}
-{ p0: 'default value 0',
-  p1: 'default value 1',
-  user: '228775681',
-  fileid: '24343819359',
-  filename: 'README.md' }
+	Listening on 8666
+	{}
+	{}
+	{}
+	{}
+	{}
+	{ p0: 'default value 0',
+	  p1: 'default value 1',
+	  user: '228775681',
+	  fileid: '24343819359',
+	  filename: 'README.md' }
 
 
 
